@@ -44,8 +44,6 @@ Samuel Cardoso [github](https://github.com/samuelcdias)
 * Networking
 * Muito conhecimento técnico
 
-## 🧪 Como testar o projeto
-[DESCREVER COMO EXECUTAR O PROJETO]
 
 # 💜 Participe
 Quer participar dos próximos desafios? Junte-se a [maior comunidade .NET do Brasil 🇧🇷 💜](https://balta.io/discord)
